@@ -1,8 +1,12 @@
-# NAVIN KUMAR 2021
+# NAVIN KUMAR, SUNG JUN LEE, NAMDAR KABOLINEJAD 2021
 
 # LyricGenius scraper and cleaner as described in report.
-# Running this will populate the CSV Lyrics folder with a fully prepped dataset.
+# Running this will populate the CSV Lyrics folder with a fully cleaned dataset in CSV format.
 # We omit the lyrics themselves from this repo to avoid any potential copyright infringement.
+
+# Scraper functions written by Navin Kumar
+# Data cleaning functions written by Namdar Kabolinejad
+# CSV conversion functions written by Sung Jun Lee
 
 ### NOTE ###
 # This script requires the installation of pip packages lyricsgenius and langdetect.
